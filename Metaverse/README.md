@@ -15,7 +15,7 @@ What advantage does Virtual Reality provide when compared to conventional meetin
 `It enables more realistic graphics that guarantee meetings are more engaging.`
 
 ##
-What distinguishes Accenture as a holistic provider of Extended Reality (XR) services?
+What distinguishes A as a holistic provider of Extended Reality (XR) services?
 `our unique combination of strategic assets, capabilities, and partnerships`
 
 ## 
@@ -53,9 +53,9 @@ What is a way Virtual Reality can be used in the construction industry?
 `to enable 3D virtual walk-throughs of buildings and sites`
 
 ##
-A social service agency hires Accenture to improve training and experiences for caseworkers.
+A social service agency hires A to improve training and experiences for caseworkers.
 
-What is one way Accenture can use Virtual Reality as a solution?
+What is one way A can use Virtual Reality as a solution?
 `Provide real-time documentation of workload and out-of-pocket expenditures.`
 
 ##
@@ -69,7 +69,7 @@ Which approach would best utilize VR for this purpose?
 `a simulated experience interacting with customers`
 
 ##
-How could Accenture's relationship to Extended Reality be described?
+How could A's relationship to Extended Reality be described?
 `initial caution mixed with gradual experimentation of new possibilities`
 
 ##
@@ -93,9 +93,9 @@ What is the main benefit for the customer?
 `a personalized experience that allows trying a product from anywhere before buying`
 
 ##
-A client in the manufacturing industry approaches Accenture with an interest in using Extended Reality (XR) for their business.
+A client in the manufacturing industry approaches A with an interest in using Extended Reality (XR) for their business.
 
-What is a unique way Accenture could demonstrate our XR capabilities to this client?
+What is a unique way A could demonstrate our XR capabilities to this client?
 `Take the client through a virtual space built to reflect the client's specific industry.`
 
 ##

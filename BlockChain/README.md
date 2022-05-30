@@ -1,12 +1,12 @@
 # Blockchain
 
 ##
-What is a core domain for Accenture’s Multi-party Systems practice?
+What is a core domain for A’s Multi-party Systems practice?
 `digital identity`
 
 ##
 An e-commerce company is collaborating with artisans from all over the world to sell the artisans' products. 
-Accenture is helping this client build a platform that will maintain the integrity of the artisans' credentials 
+A is helping this client build a platform that will maintain the integrity of the artisans' credentials 
 by creating digital identities for them. 
 This creates a privacy-preserving link between the products and the artisan's unique identities.
 

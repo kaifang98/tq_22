@@ -1,7 +1,7 @@
 # Sustainability
 
 ##
-How can myNav Green Cloud Advisor help an Accenture client achieve a clear emissions profile for their data centers?
+How can myNav Green Cloud Advisor help an A client achieve a clear emissions profile for their data centers?
 `by establishing the client's existing data center energy consumption for comparison`
 
 ##

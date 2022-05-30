@@ -21,9 +21,9 @@ What is the main difference between structured and unstructured data?
 `Structured data is easier to search and analyze, while unstructured data requires more effort to process.`
 
 ##
-A health care provider approaches Accenture to help them increase their efficiency through an advanced data science platform.
+A health care provider approaches A to help them increase their efficiency through an advanced data science platform.
 
-What is the first step Accenture could take?
+What is the first step A could take?
 `formulate an enterprise analytics strategy assessment`
 
 ##
@@ -43,7 +43,7 @@ What does data warehousing allow organizations to achieve?
 `allows for analytics and reporting across the entire organization`
 
 ##
-A client approaches Accenture for a solution to collate the large amounts of data it has collected over the years from various sources.
+A client approaches A for a solution to collate the large amounts of data it has collected over the years from various sources.
 
 Which solution would help the client pool their data together?
 `a cloud analytics solution`
@@ -76,7 +76,7 @@ Where does change management play a major role in transforming a client business
 `data culture and literacy`
 
 ##
-How does Accenture help companies harness the power of data to achieve optimal business outcomes?
+How does A help companies harness the power of data to achieve optimal business outcomes?
 `They develop data governance frameworks that go on to form the basis of the company's data analytics strategy.`
 
 ##
@@ -107,9 +107,9 @@ What is the main difference between structured and unstructured data?
 `Structured data is easier to search and analyze, while unstructured data requires more effort to process.`
 
 ##
-A health care provider approaches Accenture to help them increase their efficiency through an advanced data science platform.
+A health care provider approaches A to help them increase their efficiency through an advanced data science platform.
 
-What is the first step Accenture could take?
+What is the first step A could take?
 `formulate an enterprise analytics strategy assessment`
 
 ##
@@ -129,7 +129,7 @@ What does data warehousing allow organizations to achieve?
 `allows for analytics and reporting across the entire organization`
 
 ##
-A client approaches Accenture for a solution to collate the large amounts of data it has collected over the years from various sources.
+A client approaches A for a solution to collate the large amounts of data it has collected over the years from various sources.
 
 Which solution would help the client pool their data together?
 `a cloud analytics solution`
@@ -162,7 +162,7 @@ Where does change management play a major role in transforming a client business
 `data culture and literacy`
 
 ##
-How does Accenture help companies harness the power of data to achieve optimal business outcomes?
+How does A help companies harness the power of data to achieve optimal business outcomes?
 `They develop data governance frameworks that go on to form the basis of the company's data analytics strategy.`
 
 ##
@@ -193,9 +193,9 @@ What is the main difference between structured and unstructured data?
 `Structured data is easier to search and analyze, while unstructured data requires more effort to process.`
 
 ##
-A health care provider approaches Accenture to help them increase their efficiency through an advanced data science platform.
+A health care provider approaches A to help them increase their efficiency through an advanced data science platform.
 
-What is the first step Accenture could take?
+What is the first step A could take?
 `formulate an enterprise analytics strategy assessment`
 
 ##
@@ -215,7 +215,7 @@ What does data warehousing allow organizations to achieve?
 `allows for analytics and reporting across the entire organization`
 
 ##
-A client approaches Accenture for a solution to collate the large amounts of data it has collected over the years from various sources.
+A client approaches A for a solution to collate the large amounts of data it has collected over the years from various sources.
 
 Which solution would help the client pool their data together?
 `a cloud analytics solution`
@@ -248,7 +248,7 @@ Where does change management play a major role in transforming a client business
 `data culture and literacy`
 
 ##
-How does Accenture help companies harness the power of data to achieve optimal business outcomes?
+How does A help companies harness the power of data to achieve optimal business outcomes?
 `They develop data governance frameworks that go on to form the basis of the company's data analytics strategy.`
 
 ##
@@ -279,9 +279,9 @@ What is the main difference between structured and unstructured data?
 `Structured data is easier to search and analyze, while unstructured data requires more effort to process.`
 
 ##
-A health care provider approaches Accenture to help them increase their efficiency through an advanced data science platform.
+A health care provider approaches A to help them increase their efficiency through an advanced data science platform.
 
-What is the first step Accenture could take?
+What is the first step A could take?
 `formulate an enterprise analytics strategy assessment`
 
 ##
@@ -301,7 +301,7 @@ What does data warehousing allow organizations to achieve?
 `allows for analytics and reporting across the entire organization`
 
 ##
-A client approaches Accenture for a solution to collate the large amounts of data it has collected over the years from various sources.
+A client approaches A for a solution to collate the large amounts of data it has collected over the years from various sources.
 
 Which solution would help the client pool their data together?
 `a cloud analytics solution`
@@ -334,7 +334,7 @@ Where does change management play a major role in transforming a client business
 `data culture and literacy`
 
 ##
-How does Accenture help companies harness the power of data to achieve optimal business outcomes?
+How does A help companies harness the power of data to achieve optimal business outcomes?
 `They develop data governance frameworks that go on to form the basis of the company's data analytics strategy.`
 
 ##
@@ -342,7 +342,7 @@ What is the purpose of a company’s data strategy?
 `to collect, store, manage, share, and use data`
 
 ##
-Accenture is helping a large retailer transform their online sales and services. A data analyst audits the client’s customer journey and maps out the kind of data they need to collect at each touch point.
+A is helping a large retailer transform their online sales and services. A data analyst audits the client’s customer journey and maps out the kind of data they need to collect at each touch point.
 
 How does this help the client achieve their objectives?
 

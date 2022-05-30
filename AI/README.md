@@ -6,7 +6,7 @@ A client has gathered a very large amount of operational data,
 but struggles with how to apply Artificial Intelligence (AI) to 
 address its critical business problems.
 
-What advice should the Accenture team give the client?   
+What advice should the A team give the client?   
 `finalize AI algorithms then assess the data they have gathered`
 
 ## 
@@ -15,8 +15,8 @@ than conventional programming?
 `predicting characteristics of high-value customers`
 
 ##
-What is a benefit of applying Artificial Intelligence (AI) to Accenture’s work?   
-`It will allow Accenture people to perform critical job functions more efficiently and effectively.`
+What is a benefit of applying Artificial Intelligence (AI) to A’s work?   
+`It will allow A people to perform critical job functions more efficiently and effectively.`
 
 ##
 What is one of four key principles of Responsible Artificial Intelligence (AI)?   
@@ -41,10 +41,10 @@ What is produced when the data scientist compiles the code?
 `a model`
 
 ##
-An Accenture Sales team is in conversations with a potential client 
+An A Sales team is in conversations with a potential client 
 who has expressed interest in Artificial Intelligence (AI) solutions for their business.
 
-What should the Sales team emphasize to differentiate Accenture’s AI capabilities in the marketplace?
+What should the Sales team emphasize to differentiate A’s AI capabilities in the marketplace?
 `our large amount of experience, industry knowledge, and proprietary assets in the AI space`
 
 ##
@@ -56,7 +56,7 @@ Which are common applications of Deep Learning in Artificial Intelligence (AI)?
 `image processing, speech recognition, and natural language processing (NLP)`
 
 ##
-How does Accenture work to build trust in Artificial Intelligence (AI)?
+How does A work to build trust in Artificial Intelligence (AI)?
 `by combining AI with analytics and business logic`
 
 ##

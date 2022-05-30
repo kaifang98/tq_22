@@ -22,9 +22,9 @@ What type of security is illustrated in this example?
 `Data Security`
 
 ##
-An international pharmaceutical company is fully compliant with local and international regulations. However, they suffered a major data breach that exploited a six-month-old vulnerability. The CIO asked Accenture "How can this be possible?"
+An international pharmaceutical company is fully compliant with local and international regulations. However, they suffered a major data breach that exploited a six-month-old vulnerability. The CIO asked A "How can this be possible?"
 
-How should Accenture respond?
+How should A respond?
 `Because compliance to local and international laws does not necessarily enforce security.`
 
 ##
@@ -40,11 +40,11 @@ What is this security feature called?
 `identity and access management`
 
 ##
-What is one way that Accenture can ensure that the Cloud is secure for a client?
+What is one way that A can ensure that the Cloud is secure for a client?
 `utilizing special software to analyze all data transactions`
 
 ##
-Which goal is Accenture trying to achieve by investing in security training for Accenture people?
+Which goal is A trying to achieve by investing in security training for A people?
 `keeping ourselves and our clients secure`
 
 ##
@@ -56,13 +56,13 @@ What does “The Principle of Least Privilege” mean as applied to security?
 `Each user should have only the absolute minimum permissions necessary to complete their current responsibilities.`
 
 ##
-A large banking client recently completed migrating their entire organization to cloud. They need Accenture to help them assess how secure they are.
+A large banking client recently completed migrating their entire organization to cloud. They need A to help them assess how secure they are.
 
-What benefit would the client get from involving/utilizing Accenture’s security team?
+What benefit would the client get from involving/utilizing A’s security team?
 `assess existing Cloud security policies and processes, protect data, and identify security improvements`
 
 ##
-Following a client security incident, Accenture performs an in-depth analysis of every step taken by the attackers. Accenture can suggest permanent mitigations and then test the implementation.
+Following a client security incident, A performs an in-depth analysis of every step taken by the attackers. A can suggest permanent mitigations and then test the implementation.
 
 Which term describes this process?
 
@@ -71,5 +71,5 @@ What is the goal of Penetration (Pen) Testing?
 `to find and exploit vulnerabilities in the environment and report them`
 
 ##
-What is Accenture’s approach when it comes to helping our clients with security?
+What is A’s approach when it comes to helping our clients with security?
 `Help the client create a secure, in-house data center, that follows international regulations such as ISO 27001.`

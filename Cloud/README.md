@@ -2,7 +2,7 @@
 
 # myConcerto
 myConcerto powers finance, supply chain, industry transformation and more with new SAP solutions and 
-technologies through a harmonious ensemble that combines the best of Accenture and 
+technologies through a harmonious ensemble that combines the best of A and 
 SAP to amplify business outcomes for the intelligent enterprise.
 
 Our myConcerto solutions embed SAP Model Company and are delivered 
@@ -44,7 +44,7 @@ What is an example of an effective, elastic Cloud solution that can meet this cl
 `a mobile app that only accepts wagers based on the user's location`
 
 ##
-Accenture is meeting with a well-known, global financial institution that 
+A is meeting with a well-known, global financial institution that 
 specializes in private and commercial banking to discuss 
 the migration of its sizable application ecosystem to the Cloud. 
 The client has quickly become overwhelmed with the available choices, complexity, and security.
@@ -64,7 +64,7 @@ What is a characteristic of Cloud computing?
 `It allows multiple customers to share applications while retaining data privacy`
 
 ##
-An Accenture client is eager to begin their Cloud transformation but 
+An A client is eager to begin their Cloud transformation but 
 needs guidance on selecting the right approach to meet their specific needs and objectives.
 
 Which tool can help advise this client on the right Cloud solution?
@@ -99,15 +99,15 @@ Which technology would the business combine with its current Cloud operations to
 `Edge Computing`
 
 ##
-What is Accenture doing to demonstrate our commitment to the Cloud space?
+What is A doing to demonstrate our commitment to the Cloud space?
 `shifting the responsibility for building Cloud solutions to our clients`
 
 ##
 An international fast-food chain is looking for opportunities to leverage the Cloud 
 to gain insights into customer data, including location, and order patterns. 
-The client has engaged Accenture to help create customer-focused experiences, including promotions.
+The client has engaged A to help create customer-focused experiences, including promotions.
 
-They need Accenture's help with this campaign and to create a unique user experience for all their customers.
+They need A's help with this campaign and to create a unique user experience for all their customers.
 
 Which technology, when partnered with Cloud, would allow this to occur?
 `Artificial Intelligence`
@@ -137,16 +137,16 @@ How does a Cloud-first strategy approach a client's migration to the Cloud?
 `by bringing multiple services together to serve the client's business needs`
 
 ##
-What distinguishes Accenture’s Cloud capabilities from our competitors?
+What distinguishes A’s Cloud capabilities from our competitors?
 <!-- `providing end-to-end solutioning that includes technology, innovation, and industry specialization` -->
 `allowing clients to choose the memory, location, and speed of the Cloud services that they want to use`
 
 ##
 To help build credibility with a potential new client, 
-an Accenture Sales Lead shares the story of Accenture’s own journey to the Cloud.
+an A Sales Lead shares the story of A’s own journey to the Cloud.
 
-Which statement is true about Accenture’s own Cloud transformation journey?
-`Accenture has implemented our Cloud solutions at scale and delivered clear business value.`
+Which statement is true about A’s own Cloud transformation journey?
+`A has implemented our Cloud solutions at scale and delivered clear business value.`
 
 ##
 A popular photo editing application provides customers with the option of 
@@ -163,10 +163,10 @@ Which type of Cloud deployment would meet the company’s business needs?
 `Multi-Cloud`
 
 ##
-Accenture has signed a multi-year agreement to help a mobile telecom provider 
+A has signed a multi-year agreement to help a mobile telecom provider 
 migrate its applications to the Cloud over a period of several years, as it seeks to implement a leaner operating model.
 
-Which activity should Accenture execute first to provide the client with an optimal Cloud solution/landscape?
+Which activity should A execute first to provide the client with an optimal Cloud solution/landscape?
 `begin migrating the client’s applications`
 
 
