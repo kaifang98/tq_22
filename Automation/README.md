@@ -39,8 +39,8 @@ What is a benefit of developing an automation strategy?
 `It reduces the importance of human involvement in automation.`
 
 ##
-What key value does Accenture’s myConcerto bring to clients looking for automated solutions?
-`myConcerto functions an out-of-the-box platform solution that Accenture can hand off to clients.`
+What key value does A’s myConcerto bring to clients looking for automated solutions?
+`myConcerto functions an out-of-the-box platform solution that A can hand off to clients.`
 
 ##
 What is the simplest form of automation?
@@ -60,7 +60,7 @@ Which technology could be combined with the current solution to do this?
 `Machine Learning`
 
 ##
-What describes Accenture's approach to automation?
+What describes A's approach to automation?
 `human plus machine integrated automation implmentation`
 
 ##
@@ -93,9 +93,9 @@ What is an example of something that can be done through Personal Automation?
 `creating a web-based calendar reminder for birthdays`
 
 ##
-Accenture secures a contract with a new client that has implemented very little automation across the organization and is unfamiliar with automation concepts in general. The client would like to start mapping out an automation journey at a high level, and develop plans for implementing it.
+A secures a contract with a new client that has implemented very little automation across the organization and is unfamiliar with automation concepts in general. The client would like to start mapping out an automation journey at a high level, and develop plans for implementing it.
 
-Which Accenture platform would best help the client in this scenario?
+Which A platform would best help the client in this scenario?
 `myWizard`
 
 ##
