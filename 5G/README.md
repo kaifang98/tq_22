@@ -74,3 +74,7 @@ Why does it take so long for each generation of wireless communication technolog
 A construction company is looking to improve safety and efficiency at its sites.
 
 What is an example of a solution that requires the use of edge computing and the Internet of Things (IoT)?
+
+##
+What happens after the initial rollout of a new network generation?
+'the new network generation will continue to be developed and enhanced over its lifetime.'
