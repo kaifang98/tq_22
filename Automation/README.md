@@ -100,7 +100,7 @@ Which A platform would best help the client in this scenario?
 
 ##
 A small e-commerce company uses a series of Robotic Process Automation (RPA) solutions to manage the backup of data from individual workstations to an on-premise server. However, the company is opening another office and would like to more easily share data between locations, along with better protecting the data from loss.
-
+0
 Which technology could be combined with their current automated processes to do this?
 `Blockchain`
 
